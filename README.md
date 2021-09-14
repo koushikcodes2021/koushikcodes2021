@@ -3,7 +3,7 @@
    
 
 <div align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=This%20is%20Koushik&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=This%20is%20Koushik&fontSize=60&animation=twinkling" />
 
 
  
